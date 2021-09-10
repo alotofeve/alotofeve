@@ -1,0 +1,20 @@
+{
+    "name": "wp-es62",
+    "version": "1.0.0",
+    "description": "22",
+    "private": true,
+    "scripts": {
+        "dev": "webpack",
+        "start": "webpack serve --open"
+    },
+    "keywords": [],
+    "author": "DX",
+    "license": "ISC",
+    "dependencies": {
+        "webpack": "^5.52.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^4.8.0",
+        "webpack-dev-server": "^4.2.0"
+    }
+}
